@@ -1,0 +1,213 @@
+body{
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-stretch: extra-expanded;
+}
+nav{
+    width: 100%;
+    box-shadow: 5px 0.5px 5px lightgray;
+    overflow: hidden;
+    height: 100px;
+}
+.nav li{
+    list-style-type: none;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.left{
+    display: flex;
+}
+#logo{
+    margin-top: 0;
+    height: 50px;
+    width: 50px;
+    
+}
+.home{
+    display: flex;
+}
+.buttons{
+    display: flex;
+    margin-top: 20px;
+}
+.loc{
+    display: flex;
+    margin-right: 50px;
+}
+.right{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    margin-top: 20px;
+    position: relative;
+    bottom: 110px;
+}
+#location{
+    margin-top: 25px;
+    margin-right: 10px;
+}
+.sign{
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    border-radius: 30px;
+    border: 1px solid lightgrey;
+    background-color: white;
+    padding: 5px 10px;
+}
+.join{
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    border-radius: 30px;
+    border: 1px solid lightgrey;
+    background-color: white;
+    padding: 5px 10px;
+}
+.main{
+    width: 94%;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 450px;
+    display: flex;
+}
+.main div{
+    width: 50%;
+}
+ 
+.img{
+    width: 770px;
+    height: 450px;
+}
+.des1{
+    text-align: center;
+    background-color: darkgreen;
+    padding: 100px;
+    color: white;
+}
+.des2{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 100px;
+}
+.des3{
+    text-align: center;
+    background-color: darkmagenta;
+    padding: 100px;
+    color: white;
+}
+.des4{
+    text-align: center;
+    background-color: darkseagreen;
+    padding: 100px;
+}
+.des1 button{
+    color: white;
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    border-radius: 30px;
+    border: 1px solid white;
+    background-color: darkgreen;
+    padding: 5px 10px;
+}
+.des2 button{
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    border-radius: 30px;
+    border: 1px solid ;
+    background-color: antiquewhite;
+    padding: 5px 10px;
+}
+.des3 button{
+    color: white;
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    border-radius: 30px;
+    border: 1px solid white;
+    background-color: darkmagenta;
+    padding: 5px 10px;
+}
+.des4 button{
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    border-radius: 30px;
+    border: 1px solid ;
+    background-color: darkseagreen;
+    padding: 5px 10px;
+}
+.txt div{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    font-size: 14px;
+}
+.para1{
+    padding: 50px;
+}
+.para2{
+    padding: 50px;
+}
+
+
+.total{
+    width: 80%;
+    display: block;
+    margin-right: auto;
+    display: flex;
+    
+}
+.sec{
+    width: 240px;
+}
+.total ul{
+    list-style-type: none;
+    line-height: 50px;
+    font-size: medium;
+}
+
+#title1{
+    color: black;
+    font-size: large;
+}
+#title2{
+    color: black;
+    font-size: large;
+}
+#title3{
+    color: black;
+    font-size: large;
+}
+#title4{
+    color: black;
+    font-size: large;
+}
+#title5{
+    color: black;
+    font-size: large;
+}
+.total li{
+    color: grey;
+}
+.tot-main{
+    box-shadow: 5px 0.5px 5px lightgray;
+}
+.icons ul{
+    list-style-type: none;
+    display: flex;
+}
+.icons ul li{
+    margin-right: 20px;
+    
+}
+.list ul{
+    list-style-type: none; 
+    line-height: 50px;
+}
+
+
+
